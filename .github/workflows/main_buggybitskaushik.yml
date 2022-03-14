@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'BuggyBitskaushik'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F37D5591B8DB496280B1634938E25D7E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA00E3F4D4C0473DB6A25E8854267F5A }}
           package: .
